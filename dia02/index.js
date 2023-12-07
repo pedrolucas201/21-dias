@@ -1,2 +1,2 @@
-let entradaDoUsuario = prompt();
-console.log (entradaDoUsuario)
+let entradaDoUser = prompt();
+console.log(entradaDoUser)
