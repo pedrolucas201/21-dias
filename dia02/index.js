@@ -1,1 +1,2 @@
-console.log('Olá, Mundo!! Aprendi GIT')
+let entradaDoUsuario = prompt();
+console.log(entradaDoUsuario)
